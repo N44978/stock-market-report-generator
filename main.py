@@ -9,7 +9,7 @@ from tabulate import tabulate
 
 init(autoreset=True)
 load_dotenv()
-NEWS_API_KEY = os.getenv("NEWSAPI_KEY", "3b4f14c25e404113b8bbdff4ff0069d7")
+NEWS_API_KEY = os.getenv("NEWSAPI_KEY", "")
 
 STOCK_TICKERS = {
     "apple": "AAPL",
