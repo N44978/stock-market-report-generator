@@ -22,5 +22,5 @@ Neutral : ----------------------------------------------- (47)
 
 Feel free to edit the article search terms. 
 
-> [SUCCESS] CSV report generated: ./reports_2025-01-11\market_report_2025-01-11.csv
+> [SUCCESS] CSV report generated: ./reports_2025-01-11\market_report_2025-01-11.csv                                                                                                                                                                      
 > [SUCCESS] ASCII text report generated: ./reports_2025-01-11\market_report_2025-01-11.txt
